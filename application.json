@@ -1,14 +1,21 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "Audience Seating Chart",
       "isDefault": true
+    },
+    {
+      "id": "Dune Part 2 Reviews",
+      "isDefault": false
     }
   ],
   "viewMode": false,
   "appIsExample": false,
   "unreadCommentThreads": 0,
   "color": "#D9E7FF",
+  "unpublishedAppLayout": {
+    "type": "TABLET_LARGE"
+  },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
