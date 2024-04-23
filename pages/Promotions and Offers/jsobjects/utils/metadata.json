@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "utils",
+    "pageId": "Promotions and Offers",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "activeEditProduct",
+        "value": "null"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Promotions and Offers_utils",
+  "deleted": false,
+  "gitSyncId": "6625d27b7fcf650e70393efd_6625f87a9092cb02bc8c117f"
+}
