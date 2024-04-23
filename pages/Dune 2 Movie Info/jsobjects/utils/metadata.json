@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "utils",
+    "pageId": "Dune 2 Movie Info",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Dune 2 Movie Info_utils",
+  "deleted": false,
+  "gitSyncId": "6625d26e641e7e35f756a1cc_6625f7672f153f125323205e"
+}
